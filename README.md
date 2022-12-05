@@ -4,7 +4,7 @@
 This is a portfolio project for my Codecademy course.  It will just generate random messages and output them to the console.  There will be three lists of text strings:
 
 - Day of week: Monday - Sunday
-- Time of day: morning, at midday, afternoon, night
+- Time of day: morning, at midday, afternoon, night, at midnight
 - Things to do: A list of things that could be done, like go grocery shopping, pay bills, etc.
 
 Each time you run the program, it will output the message by randomly picking an item from each list and combining each item to form one sentence saying what you should do and when.  For example:
